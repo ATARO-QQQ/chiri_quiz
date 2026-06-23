@@ -1,4 +1,4 @@
-window.quizConfig.chapters.push({ id: 1, name: "地形とGIS（地図・地理情報システム）" });
+window.quizConfig.chapters.push({ id: 1, name: "地形とGIS" });
 
 window.quizConfig.questions.push(
     // --- 【地形：大地形・小地形】 ---
